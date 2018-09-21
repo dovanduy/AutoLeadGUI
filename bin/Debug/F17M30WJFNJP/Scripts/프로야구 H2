@@ -1,0 +1,15 @@
+
+;begin autogen script
+wait(3.2231844)
+touch(45.5,240.5,22)
+wait(0.9810561)
+touch(50.5,299.5,66)
+wait(0.7710441)
+touch(55.5,313,82)
+wait(1.0080577)
+touch(238.5,357.5,50)
+wait(60.0024319)
+touch(238.5,357.5,50)
+wait(23.7683595)
+touch(215.5,493,64)
+;end autogen script

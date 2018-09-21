@@ -1,0 +1,10 @@
+wait(3)
+end()
+wait(4)
+
+;restore(abcxxx1234, ph.telegra.Telegraph)
+;backup(abcxxx1234)
+;wait(5)
+;wipe()
+;wait(5)
+;restore(abcxxx123, ph.telegra.Telegraph)

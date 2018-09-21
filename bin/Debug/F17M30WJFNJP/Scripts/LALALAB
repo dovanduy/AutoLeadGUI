@@ -1,0 +1,10 @@
+
+;begin autogen script
+text(rand_firstname)
+wait(2.2790756)
+touch(207,152,49)
+text(rand_lastname)
+wait(1.0595167)
+touch(93,213.5,82)
+text(rand_email)
+;end autogen script

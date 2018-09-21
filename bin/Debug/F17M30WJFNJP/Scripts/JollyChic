@@ -1,0 +1,7 @@
+
+;begin autogen script
+text(rand_email)
+wait(4.0540462)
+touch(57,191.5,82)
+text(rand_password)
+;end autogen script

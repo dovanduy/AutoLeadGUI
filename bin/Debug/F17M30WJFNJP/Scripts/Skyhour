@@ -1,0 +1,54 @@
+
+
+;begin autogen script
+wait(3.3533148)
+swipe(217.5,336,59.5,325,107)
+wait(1.1841698)
+swipe(210,363,90,343,149)
+wait(3.9831391)
+touch(37.5,524,82)
+wait(1.5403726)
+touch(122,476,80)
+wait(6.8451813)
+touch(17,38,115)
+wait(1.425959)
+touch(91,240.5,115)
+wait(6.5701418)
+touch(118.5,190.5,99)
+wait(3.4048582)
+touch(92,181,48)
+text(rand_email)
+;end autogen script
+
+;begin autogen script
+wait(9.5949042)
+touch(84.5,235.5,49)
+wait(2.6767596)
+touch(87.5,231,132)
+text(rand_firstname)
+;end autogen script
+
+;begin autogen script
+wait(2.4404676)
+touch(125.5,307.5,132)
+wait(18.3899718)
+touch(2.5,51.5,33)
+wait(2.5547663)
+touch(22.5,44,99)
+wait(3.0337415)
+touch(172,474,82)
+wait(3.684433)
+touch(202,213,67)
+wait(6.3999575)
+touch(203.5,221.5,115)
+wait(7.4309524)
+swipe(165.5,330.5,76.5,320,82)
+wait(2.4163578)
+swipe(156.5,297.5,50,283.5,83)
+wait(0.8212665)
+swipe(189,297.5,60,284,115)
+wait(1.1625638)
+swipe(190.5,312.5,82,301,99)
+wait(2.6687878)
+touch(37.5,44.5,82)
+;end autogen script

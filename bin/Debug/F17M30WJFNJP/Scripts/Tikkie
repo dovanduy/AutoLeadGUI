@@ -1,0 +1,68 @@
+
+;begin autogen script
+wait(5.0142868)
+touch(164,283,97)
+wait(0.9010515)
+touch(166.5,535.5,65)
+wait(25.9194825)
+touch(164.5,538,83)
+;begin autogen script
+wait(0.9630037)
+touch(205.5,526.5,66)
+wait(3.7280074)
+touch(55,151.5,65)
+text(rand_lastname)
+wait(1.1910056)
+touch(251,304,65)
+wait(7.0310166)
+touch(105.5,176.5,199)
+text(rand_number,8)
+wait(3.3270056)
+touch(235.5,309.5,100)
+wait(2.9780074)
+touch(274,491,82)
+wait(4.2650119)
+touch(9,361,81)
+wait(3.7670112)
+touch(119,250,116)
+wait(1.847003)
+touch(172.5,213.5,99)
+text(rand_number,10)
+wait(2.6740023)
+touch(232.5,319,65)
+;end autogen script
+
+wait(2.1541232)
+touch(219,28.5,51)
+wait(1.4800847)
+touch(89.5,248.5,82)
+wait(1.3670782)
+touch(66.5,138.5,65)
+text(rand_email)
+;end autogen script
+
+;begin autogen script
+wait(1.2010687)
+touch(29.5,173.5,82)
+wait(2.7491572)
+touch(51.5,191,99)
+text(rand_password)
+;end autogen script
+
+;begin autogen script
+wait(0.7840448)
+touch(67.5,246.5,66)
+wait(0.9680554)
+touch(51.5,245,66)
+;end autogen script
+
+;begin autogen script
+wait(1.4700841)
+touch(303.5,323.5,98)
+wait(0.8990514)
+touch(106.5,436,83)
+wait(22.3182765)
+touch(234.5,448.5,50)
+wait(2.2011259)
+touch(64.5,121.5,83)
+;end autogen script
